@@ -5,19 +5,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deep91097/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/deep91097/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/deep91097/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deep91097/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/deep91097/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/deep91097/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -26,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/deep91097/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -34,9 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/deep91097/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deep91097/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
