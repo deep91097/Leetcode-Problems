@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/deep91097/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/deep91097/Leetcode-Problems/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
