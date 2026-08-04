@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/deep91097/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/deep91097/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/deep91097/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/deep91097/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/deep91097/Leetcode-Problems/tree/master/0912-sort-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/deep91097/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/deep91097/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/deep91097/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/deep91097/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/deep91097/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/deep91097/Leetcode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Trie
 |  |
