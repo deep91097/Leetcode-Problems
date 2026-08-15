@@ -7,12 +7,17 @@ class Solution:
         #     res = n if count[n] > maxCount else res
         #     maxCount = max(count[n],maxCount)
         # return res
+        #boyrer moore algorithm
+        # res, count = 0, 0
+        # for n in nums:
+        #     if count == 0:
+        #         res = n
+        #     count += 1 if res == n else -1
+        # return res
 
-        res, count = 0, 0
-        for n in nums:
-            if count == 0:
-                res = n
-            count += 1 if res == n else -1
-        return res
+        # more advance
+        count = Counter(nums)
+        threshold = len(nums) // 2
+        return count.most_common(1)[0][0]
 
         
